@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ### My Skills
-![alt text](https://img.icons8.com/fluency/344/node-js.png)
+![alt text](https://img.icons8.com/fluency/100/node-js.png)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png)
 
