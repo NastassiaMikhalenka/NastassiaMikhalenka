@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ### My Skills
 ![alt text](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-100.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png)
+
