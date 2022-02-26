@@ -1,5 +1,6 @@
 ## Hi there 👋
-### Welcome to my repository, my name is Nastassia and I'm front-end developer.
+### Welcome to my repository, my name is Nastassia and I’m front end developer with experience in creating landing pages and SPA. Currently, I using technologies as React/js, TS, Redux, etc. 
+
 
 <!--
 **NastassiaMikhalenka/NastassiaMikhalenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
