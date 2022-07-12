@@ -22,10 +22,10 @@ Welcome to my repository. I’m front end developer with experience in creating 
   <div> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb logo" width="40" title="Mongodb"> </div>
 
 - Testing
-  <div> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest logo" width="40" title="Jest"> </div>
+  <div> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest logo" width="35" title="Jest"> </div>
 
 - Software
-  <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop logo" width="40" title="Photoshop"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" width="40" title="Figma"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman logo" width="40" title="Postman"> </div>
+  <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop logo" width="37" title="Photoshop"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" width="37" title="Figma"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman logo" width="37" title="Postman"> </div>
 
 <hr>
 
@@ -34,9 +34,9 @@ Welcome to my repository. I’m front end developer with experience in creating 
    <a href="https://www.linkedin.com/in/nast-mikh/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/iamnast">
+   <a href="https://t.me/iamnast" target="_blank">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-  <b>  📫 How to reach me: <a href='anastasiyamihalenko@gmail.com'>anastasiyamihalenko@gmail.com</a> </b>
+  <b>  📫 How to reach me: <a href='mailto:anastasiyamihalenko@gmail.com' target="_blank">anastasiyamihalenko@gmail.com</a> </b>
 </p>
