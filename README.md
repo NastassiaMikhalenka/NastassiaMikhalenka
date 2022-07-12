@@ -1,4 +1,45 @@
-## Hi there 👋
+### Hi there 👋
+
+### I'm Anastasia
+
+<b>
+Welcome to my repository. I’m front end developer with experience in creating landing pages and SPA. Currently, I using technologies as React/js, TS, Redux, etc.
+ </b>
+<hr>
+<p>
+  <br>
+</p>
+
+### Skills
+
+- Programming Languages
+  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">] |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">] |
+
+
+- Frontend Development
+  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="js logo" width="24">] |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="ts logo" width="24">] |  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="js logo" width="24">] |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="ts logo" width="24">] | |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="ts logo" width="24">] |
+
+<hr>
+<p>
+  <br>
+</p>
+### Contact me:
+<p align='center'>
+   <a href="https://www.linkedin.com/in/nast-mikh/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/iamnast">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+  <b>  📫 How to reach me: <a href='anastasiyamihalenko@gmail.com'>anastasiyamihalenko@gmail.com</a> </b>
+</p>
+
+
+
+
+
+<!-- ## Hi there 👋
 ### Welcome to my repository, my name is Nastassia and I’m front end developer with experience in creating landing pages and SPA. Currently, I using technologies as React/js, TS, Redux, etc. 
 
 
@@ -33,7 +74,7 @@ Here are some ideas to get you started:
 
 ## Connect with me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nast-mikh/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/iamnast)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/iamnast) -->
 
 
 
